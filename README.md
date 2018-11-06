@@ -9,7 +9,7 @@ Run the command below to install the dependencies
 $ npm install
 ```
 
-Then, to run it in Android
+Then, to run project
 
 ```bash
 $ npm start
