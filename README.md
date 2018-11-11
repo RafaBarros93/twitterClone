@@ -16,3 +16,10 @@ $ npm start
 
 ```
 
+Then, to run project into the path frontend
+
+```bash
+$ npm start
+
+```
+
